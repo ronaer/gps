@@ -9,7 +9,7 @@
    This demo sketch demonstrates the use of a TinyGPSPlus (TinyGPSPlus) object as a gps clock.
    It requires the use of SoftwareSerial, and assumes that you have a
    9600-baud serial GPS device hooked up on pins GPIO2(Rx) and A0(Tx).
-   https://youtu.be/ZkBF7UyedWc
+   https://youtu.be/Bb0UiQmd7So
    P10 MonoColor Hardware Connections:
             ------IDC16 IN------
   CS/GPIO15/D8  |1|   |2|  D0/GPIO16
